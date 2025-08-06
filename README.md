@@ -1,11 +1,5 @@
-# Dummy Device
-
-[![Arduino AVR Build](https://github.com/emakefun-arduino-library/em_dummy_device/actions/workflows/arduino_avr_build.yml/badge.svg)](https://github.com/emakefun-arduino-library/em_dummy_device/actions/workflows/arduino_avr_build.yml) [![Arduino ESP32 Build](https://github.com/emakefun-arduino-library/em_dummy_device/actions/workflows/arduino_esp32_build.yml/badge.svg)](https://github.com/emakefun-arduino-library/em_dummy_device/actions/workflows/arduino_esp32_build.yml)
+# Emakefun SAM2695 MIDI
 
 ## Introduction
 
-Dummy device is a virtual device used for testing, with a default I2C address of 0x10.
-
-## Page
-
-<https://emakefun-arduino-library.github.io/em_dummy_device/>
+SAM2695 MIDI module library. The SAM2695 MIDI module is a module used for synthesizing sound sources, with 128 universal MIDI sounds, a set of 128 variants, and dozens of percussion sounds. It can play ineffective 64 tone polyphonic music, as well as effective 38 tone music.
